@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello Afandi</string>
+
+    <string name="str1">gravity = start</string>
+    <string name="str2">gravity = center</string>
+    <string name="str3">gravity = center horizontal</string>
+    <string name="str4">gravity = end</string>
+    <string name="str5">layout_gravity = start</string>
+    <string name="str6">layout_gravity = center</string>
+    <string name="str7">layout_gravity = end</string>
+    <string name="str8">layout_gravity = </string>
+</resources>
